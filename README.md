@@ -1,5 +1,7 @@
 # Facbebook-Campaign
 ## python 写得程序，没使用api，依靠FB ads模板上传功能  优势在于可以批量创建几十个上百个Campaign，批量上传。操作简单。
+
+## 下载点击这里：https://github.com/chenyangyangvip/Facbebook-ads-Bulk-create-Campaign/releases
 ## 第一步：从FB下载你想创建的Campaign模板，注意是你再跑得Campaign，此工具使用再跑Campaign的所有设置，包括Campaign结构，定向，文案等，只是批量添加素材。
 ## 第二步：使用此工具上传
 ### step 1:
