@@ -2,7 +2,9 @@
 ## python 写得程序，没使用api，依靠FB ads模板上传功能  优势在于可以批量创建几十个上百个Campaign，批量上传。操作简单。
 
 ## 教程视频：
+### 完整版：
 ###    https://youtu.be/GIDnvhmvE0k
+### 简短版：
 ###    https://youtu.be/MhBf7XnvPI0
 
 ## 下载点击这里：https://github.com/chenyangyangvip/Facbebook-ads-Bulk-create-Campaign/releases
